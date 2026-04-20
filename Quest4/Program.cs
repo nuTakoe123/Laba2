@@ -36,6 +36,8 @@
 					dayName = "Неизвестный день";
 					break;
 			}
+
+			Console.WriteLine(dayName);
 		}
 	}
 }
