@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Laba2Sred")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Quest2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f269bd27ed03a4fb09684b7a843c939f0d61d202")]
-[assembly: System.Reflection.AssemblyProductAttribute("Laba2Sred")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Laba2Sred")]
+[assembly: System.Reflection.AssemblyProductAttribute("Quest2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Quest2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

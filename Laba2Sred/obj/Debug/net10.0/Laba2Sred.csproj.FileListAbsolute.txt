@@ -1,0 +1,15 @@
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/bin/Debug/net10.0/Laba2Sred
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/bin/Debug/net10.0/Laba2Sred.deps.json
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/bin/Debug/net10.0/Laba2Sred.runtimeconfig.json
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/bin/Debug/net10.0/Laba2Sred.dll
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/bin/Debug/net10.0/Laba2Sred.pdb
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/Laba2Sred.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/Laba2Sred.AssemblyInfoInputs.cache
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/Laba2Sred.AssemblyInfo.cs
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/Laba2Sred.csproj.CoreCompileInputs.cache
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/Laba2Sred.sourcelink.json
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/Laba2Sred.dll
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/refint/Laba2Sred.dll
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/Laba2Sred.pdb
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/Laba2Sred.genruntimeconfig.cache
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/Debug/net10.0/ref/Laba2Sred.dll

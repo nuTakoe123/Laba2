@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/Laba2Sred.csproj",
-      "projectName": "Laba2Sred",
-      "projectPath": "/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/Laba2Sred.csproj",
+      "projectUniqueName": "/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest2/Quest2.csproj",
+      "projectName": "Quest2",
+      "projectPath": "/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest2/Quest2.csproj",
       "packagesPath": "/Users/anonim./.nuget/packages/",
-      "outputPath": "/Users/anonim./RiderProjects/Synergy/Laba2Sred/Laba2Sred/obj/",
+      "outputPath": "/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anonim./.nuget/NuGet/NuGet.Config"

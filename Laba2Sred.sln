@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba2Sred", "Laba2Sred\Laba2Sred.csproj", "{C96E3CC9-A3BD-4AB3-9E9C-1781B8939340}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest2", "Quest2\Quest2.csproj", "{E37FDCEA-6E98-4223-951C-127640AD7BF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C96E3CC9-A3BD-4AB3-9E9C-1781B8939340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C96E3CC9-A3BD-4AB3-9E9C-1781B8939340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C96E3CC9-A3BD-4AB3-9E9C-1781B8939340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37FDCEA-6E98-4223-951C-127640AD7BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37FDCEA-6E98-4223-951C-127640AD7BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37FDCEA-6E98-4223-951C-127640AD7BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37FDCEA-6E98-4223-951C-127640AD7BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
