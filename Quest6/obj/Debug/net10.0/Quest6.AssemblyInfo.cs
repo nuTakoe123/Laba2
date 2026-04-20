@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Quest5")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Quest6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+284b48a36c56680c00d8eddd833ba6fd0ee607df")]
-[assembly: System.Reflection.AssemblyProductAttribute("Quest5")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Quest5")]
+[assembly: System.Reflection.AssemblyProductAttribute("Quest6")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Quest6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
