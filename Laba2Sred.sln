@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest7", "Quest7\Quest7.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest8", "Quest8\Quest8.csproj", "{5A5B123D-5AF4-4FE6-95CB-EA509C7F1308}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest9", "Quest9\Quest9.csproj", "{E3720DFE-3752-44D9-B7C1-C36CCAABF7F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{5A5B123D-5AF4-4FE6-95CB-EA509C7F1308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A5B123D-5AF4-4FE6-95CB-EA509C7F1308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A5B123D-5AF4-4FE6-95CB-EA509C7F1308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3720DFE-3752-44D9-B7C1-C36CCAABF7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3720DFE-3752-44D9-B7C1-C36CCAABF7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3720DFE-3752-44D9-B7C1-C36CCAABF7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3720DFE-3752-44D9-B7C1-C36CCAABF7F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
