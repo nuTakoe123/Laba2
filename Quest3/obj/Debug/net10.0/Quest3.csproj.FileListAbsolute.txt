@@ -1,0 +1,15 @@
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/bin/Debug/net10.0/Quest3
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/bin/Debug/net10.0/Quest3.deps.json
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/bin/Debug/net10.0/Quest3.runtimeconfig.json
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/bin/Debug/net10.0/Quest3.dll
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/bin/Debug/net10.0/Quest3.pdb
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/Quest3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/Quest3.AssemblyInfoInputs.cache
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/Quest3.AssemblyInfo.cs
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/Quest3.csproj.CoreCompileInputs.cache
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/Quest3.sourcelink.json
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/Quest3.dll
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/refint/Quest3.dll
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/Quest3.pdb
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/Quest3.genruntimeconfig.cache
+/Users/anonim./RiderProjects/Synergy/Laba2Sred/Quest3/obj/Debug/net10.0/ref/Quest3.dll
